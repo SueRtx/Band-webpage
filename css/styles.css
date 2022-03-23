@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(156, 233, 226);
+}
+h1{
+  font-size: 100px;
+  text-align: left;
+  color:orangered; 
+}
+.sidebar {
+  float: right;
+}
+.sidebar {
+  float: right;
+  width: 12%;
+  height: 86vh;
+  background-color: aqua;
+  border: 6px solid black;
+  padding: 50px;
+  font-size: 50px
+} 
+img {
+  width: 80%;
+  border: 10px solid black;
+  padding: 50px;
+}
+.column {
+  width: 32%;
+  height: 26vh;
+  float: left;
+  padding: 10px;
+  font-size: 50px;
+}
+
